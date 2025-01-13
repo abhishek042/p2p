@@ -1,5 +1,5 @@
 # p2p
-This is an attrmpt to make a p2p project. 
+This is an attempt to make a p2p project. 
 
 What is p2p
 me and you are equal both share a book but once the book is shared we both have it. Call it smart redundancy or call it deoptimised space management.
