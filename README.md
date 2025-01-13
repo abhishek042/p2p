@@ -2,7 +2,7 @@
 This is an attempt to make a p2p project. 
 
 What is p2p
-me and you are equal both share a book but once the book is shared we both have it. Call it smart redundancy or call it deoptimised space management.
+me and you are equal both share a book but once the book is shared we both have it. Call it smart redundancy or call it poor space management.
 
 Scope:-
 scope of this project to build a p2p app with a partical simulated GUI where partical's are active p, p as in peers what did you think? 
