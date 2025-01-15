@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/p2p_poc/.vs
+/p2p_poc/out/build/x64-debug
+/.vs
